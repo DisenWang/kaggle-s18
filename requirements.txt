@@ -1,0 +1,10 @@
+image
+urllib3
+tqdm
+pandas
+matplotlib
+seaborn
+plotly
+cufflinks
+IPython
+jupyter
